@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ir4dex1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in helping the weak and ending misery :)
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on removal of fake fb accounts
 - 📫 How to reach me ...ir4dex@msn.com
 
 <!---
